@@ -18,9 +18,6 @@ A repository for practicing C programming fundamentals and documenting what I le
 More exercises and topics will be added as I continue learning.
 
 ## 📁 Repository Structure
-
-# 📁 Repository Structure
-
 This repository contains C programming exercises, course assignments, 
 and structured practice projects created throughout the learning process.
 

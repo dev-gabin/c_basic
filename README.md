@@ -35,8 +35,7 @@ c_basic/
 └── README.md
 ```
 
-## 🛠 Environment
-
+## 🛠 Tools & Environment
 * C
 * MSVC
 * CMake

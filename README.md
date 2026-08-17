@@ -25,7 +25,7 @@ The structure may change as I continue learning and adding new exercises.
 ```text
 c_basic/
 ├── .vscode/          # VS Code configuration
-├── backup/           # Backup and previous practice files
+├── backup/           # Earlier C practice exercises
 ├── include/          # Header files used in exercises
 ├── redpill/          # Course assignments (bit operations, memory handling, etc.)
 ├── src/              # General C practice source files

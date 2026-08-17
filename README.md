@@ -19,16 +19,21 @@ More exercises and topics will be added as I continue learning.
 
 ## 📁 Repository Structure
 
-This repository contains C programming exercises, course assignments, and personal practice code.  
-The structure may change as I continue learning and adding new exercises.
+# 📁 Repository Structure
+
+This repository contains C programming exercises, course assignments, 
+and structured practice projects created throughout the learning process.
 
 ```text
 c_basic/
-├── .vscode/          # VS Code configuration
-├── backup/           # Earlier C practice exercises
-├── include/          # Header files used in exercises
-├── redpill/          # Course assignments (bit operations, memory handling, etc.)
-├── src/              # General C practice source files
+├── backup/          # Earlier C programming exercises
+├── include/         # Header files from earlier practice
+├── redpill/         # Course assignments
+├── src/             # Structured C programming practice
+│   ├── app/         # Application logic
+│   ├── cli/         # Command-line interface
+│   ├── hw/driver/   # Hardware/driver-related code
+│   └── main.c       # Program entry point
 ├── CMakeLists.txt    # CMake build configuration
 └── README.md
 ```

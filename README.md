@@ -21,12 +21,13 @@ More exercises and topics will be added as I continue learning.
 
 ```text
 c_basic/
-├── include/          # Header files
-├── src/              # Source files
-├── backup/           # Previous practice files
-├── redpill/          # Course assignments (bit operations, memory handling, etc.)
-├── .vscode/          # VS Code settings
-└── CMakeLists.txt    # CMake build configuration
+├── .vscode/
+├── backup/
+├── include/
+├── redpill/
+├── src/
+├── CMakeLists.txt
+└── README.md
 ```
 
 ## 🛠 Environment

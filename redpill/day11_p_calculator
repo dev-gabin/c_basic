@@ -1,0 +1,50 @@
+#include <stdio.h>
+#include<stdint.h>
+#include <stdlib.h>
+
+
+
+int add(int a, int b) {return a+b;}
+int sub(int a, int b) {return a-b;}
+int mul(int a, int b) {return a*b;}
+int div_(int a, int b) {return a/b;}
+int do_exit(int a, int b){
+    exit(0);
+    return(0);
+}
+
+enum{
+    ADD,
+    SUB,
+    MUL,
+    DIV,    
+    EXIT,
+
+};
+
+
+int(*operations[])(int,int)={add, sub, mul, div_, do_exit};
+
+
+int main(void){
+
+    int a=1;
+    int b=2;
+    printf("=== Day 11: Function Pointer Array Calculator ===\n\n");
+
+    printf("Select (0:Add, 1:Sub, 2:Mul, 3:Div, 4:Exit): 0\n");
+    printf("Input two integers: %d, %d",a,b);
+    printf("\n");
+    printf(">> Result:%d",operations[0]);
+    printf("\n\n");
+
+
+    printf("Select (0:Add, 1:Sub, 2:Mul, 3:Div, 4:Exit): 0\n");
+    printf("Input two integers: %d, %d",a,b);
+    printf("\n");
+    printf(">> Result:%d",operations[0]);
+    printf("\n\n");
+
+
+
+}

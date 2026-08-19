@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\kccistc\Documents\GitHub\c_basic\src\app\app.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kccistc\Documents\GitHub\c_basic\src\cli\cli.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kccistc\Documents\GitHub\c_basic\src\hw\driver\uart_win.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kccistc\Documents\GitHub\c_basic\src\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\kccistc\Documents\GitHub\c_basic\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F750803A-B859-3841-B611-D40F61511FF7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

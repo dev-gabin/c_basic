@@ -1,0 +1,3 @@
+C:/Users/kccistc/Documents/GitHub/c_basic/build/CMakeFiles/msvc_cil.dir
+C:/Users/kccistc/Documents/GitHub/c_basic/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/kccistc/Documents/GitHub/c_basic/build/CMakeFiles/ZERO_CHECK.dir
